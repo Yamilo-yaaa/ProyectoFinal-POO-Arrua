@@ -1,4 +1,5 @@
-# ProyectoFinal-POO-Arrua
+# ProyectoFinal-POO-Arrua-UML
+```mermaid
 classDiagram
     %% Relaciones de Herencia y Abstracción
     Coordenada <|-- LecturaMision : Herencia (extends)
